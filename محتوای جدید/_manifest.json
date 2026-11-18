@@ -1,0 +1,894 @@
+{
+ "downloaded": {
+  "8eaf524f7c": {
+   "url": "https://amar.org.ir/",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\8eaf524f7c_درگاه ملی آمار.html",
+   "type": "page",
+   "category": ""
+  },
+  "925ce08af9": {
+   "url": "https://amar.org.ir/en",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\925ce08af9_Statistical Centre of Iran.html",
+   "type": "page",
+   "category": ""
+  },
+  "49f282f1aa": {
+   "url": "https://amar.org.ir/statistical-information",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\49f282f1aa_داده‌ها و اطلاعات آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "9bbdada142": {
+   "url": "https://amar.org.ir/population-and-migration",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\9bbdada142_جمعیت و مهاجرت.html",
+   "type": "page",
+   "category": ""
+  },
+  "bcc40b1a0f": {
+   "url": "https://amar.org.ir/work",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\bcc40b1a0f_نیروی کار.html",
+   "type": "page",
+   "category": ""
+  },
+  "c51f51f424": {
+   "url": "https://amar.org.ir/education",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\c51f51f424_آموزش.html",
+   "type": "page",
+   "category": ""
+  },
+  "32456de4a8": {
+   "url": "https://amar.org.ir/health",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\32456de4a8_سلامت.html",
+   "type": "page",
+   "category": ""
+  },
+  "fe69785d28": {
+   "url": "https://amar.org.ir/cost-and-income",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\fe69785d28_هزینه و درآمد.html",
+   "type": "page",
+   "category": ""
+  },
+  "76befa685e": {
+   "url": "https://amar.org.ir/social-support",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\76befa685e_حمایت اجتماعی.html",
+   "type": "page",
+   "category": ""
+  },
+  "d4966a4c7c": {
+   "url": "https://amar.org.ir/housing-and-residential-areas",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\d4966a4c7c_مسکن و محل‌های سکونت.html",
+   "type": "page",
+   "category": ""
+  },
+  "954b1d2ae9": {
+   "url": "https://amar.org.ir/justice-and-crime",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\954b1d2ae9_عدالت و جرم.html",
+   "type": "page",
+   "category": ""
+  },
+  "bdd17ee43a": {
+   "url": "https://amar.org.ir/culture",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\bdd17ee43a_فرهنگ.html",
+   "type": "page",
+   "category": ""
+  },
+  "abd604f7d5": {
+   "url": "https://amar.org.ir/political-and-social-activities",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\abd604f7d5_فعالیت‌های سیاسی و اجتماعی.html",
+   "type": "page",
+   "category": ""
+  },
+  "367075019c": {
+   "url": "https://amar.org.ir/spend-time",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\367075019c_طرح گذران وقت.html",
+   "type": "page",
+   "category": ""
+  },
+  "e895b65ba0": {
+   "url": "https://amar.org.ir/economic-accounts",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\e895b65ba0_حساب‌های اقتصادی.html",
+   "type": "page",
+   "category": ""
+  },
+  "53bb9e5c87": {
+   "url": "https://amar.org.ir/business-and-business-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\53bb9e5c87_کسب و کار.html",
+   "type": "page",
+   "category": ""
+  },
+  "b205fc5551": {
+   "url": "https://amar.org.ir/agricultural-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\b205fc5551_کشاورزی، جنگل داری و شیلات.html",
+   "type": "page",
+   "category": ""
+  },
+  "11abf04b8b": {
+   "url": "https://amar.org.ir/energy-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\11abf04b8b_انرژی.html",
+   "type": "page",
+   "category": ""
+  },
+  "7f45f16ab2": {
+   "url": "https://amar.org.ir/industry-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\7f45f16ab2_صنعت، معدن و ساختمان.html",
+   "type": "page",
+   "category": ""
+  },
+  "5201eb7127": {
+   "url": "https://amar.org.ir/transport-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\5201eb7127_حمل و نقل.html",
+   "type": "page",
+   "category": ""
+  },
+  "01e0eb1e05": {
+   "url": "https://amar.org.ir/tourism-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\01e0eb1e05_گردشگری.html",
+   "type": "page",
+   "category": ""
+  },
+  "61ecfffac6": {
+   "url": "https://amar.org.ir/financial-services-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\61ecfffac6_خدمات مالی، بیمه و بانکداری.html",
+   "type": "page",
+   "category": ""
+  },
+  "74dea4d801": {
+   "url": "https://amar.org.ir/public-sector-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\74dea4d801_بخش عمومی، مالیاتی و بودجه.html",
+   "type": "page",
+   "category": ""
+  },
+  "a95d522983": {
+   "url": "https://amar.org.ir/balance-of-payments-and-international-trade",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\a95d522983_تراز پرداخت‌ها و تجارت بین المللی.html",
+   "type": "page",
+   "category": ""
+  },
+  "f15e90d5db": {
+   "url": "https://amar.org.ir/prices",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\f15e90d5db_شاخص‌های قیمت.html",
+   "type": "page",
+   "category": ""
+  },
+  "d1c48eb703": {
+   "url": "https://amar.org.ir/labour-cost",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\d1c48eb703_دستمزد نیروی انسانی.html",
+   "type": "page",
+   "category": ""
+  },
+  "24ca305bdc": {
+   "url": "https://amar.org.ir/science-technology-and-innovation",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\24ca305bdc_علم، فناوری و نوآوری.html",
+   "type": "page",
+   "category": ""
+  },
+  "652b50b065": {
+   "url": "https://amar.org.ir/salnameh-amari",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\652b50b065_سالنامه‌های آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "3af9202b59": {
+   "url": "https://amar.org.ir/development-indicators",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\3af9202b59_شاخص‌‌‌ها و آمارهای فرابخشی_شاخص‌های توسعه ملی و استانی.html",
+   "type": "page",
+   "category": ""
+  },
+  "6cabcae9e6": {
+   "url": "https://amar.org.ir/international-development-indicators",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\6cabcae9e6_شاخص‌‌‌ها و آمارهای فرابخشی_شاخص‌های توسعه بین المللی.html",
+   "type": "page",
+   "category": ""
+  },
+  "9fd9701bfc": {
+   "url": "https://amar.org.ir/the-environment",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\9fd9701bfc_محیط زیست.html",
+   "type": "page",
+   "category": ""
+  },
+  "8f28384baa": {
+   "url": "https://amar.org.ir/life-conditions",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\8f28384baa_شاخص‌‌‌ها و آمارهای فرابخشی_شرایط زندگی، فقر و مسائل اجتماعی مرتبط.html",
+   "type": "page",
+   "category": ""
+  },
+  "2960a2b41a": {
+   "url": "https://amar.org.ir/information-and-communication",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\2960a2b41a_شاخص‌‌‌ها و آمارهای فرابخشی_اطلاعات و ارتباطات.html",
+   "type": "page",
+   "category": ""
+  },
+  "4c48e87cf8": {
+   "url": "https://amar.org.ir/geo",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\4c48e87cf8_نقشه‌های آماری و اطلاعات مکانی.html",
+   "type": "page",
+   "category": ""
+  },
+  "113c82320e": {
+   "url": "https://amar.org.ir/standards",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\113c82320e_استانداردها.html",
+   "type": "page",
+   "category": ""
+  },
+  "4883a13e03": {
+   "url": "https://amar.org.ir/classifications",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\4883a13e03_درگاه ملی آمار _ داده‌‌‌ها و اطلاعات آماری _ روش‌شناسی و زیرساخت‌های آماری _ طبقه‌‌بندی‌ها.html",
+   "type": "page",
+   "category": ""
+  },
+  "2aeb659d1a": {
+   "url": "https://amar.org.ir/definitions-and-statistical-concepts",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\2aeb659d1a_تعاریف و مفاهیم آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "492215408b": {
+   "url": "https://amar.org.ir/quality-framework",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\492215408b_مدیریت کیفیت آمارها.html",
+   "type": "page",
+   "category": ""
+  },
+  "cca8faa22d": {
+   "url": "https://amar.org.ir/evaluation",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\cca8faa22d_نظارت و ارزیابی.html",
+   "type": "page",
+   "category": ""
+  },
+  "e7af7b5f53": {
+   "url": "https://amar.org.ir/population-and-housing-census",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\e7af7b5f53_نتایج سرشماری عمومی نفوس و مسکن.html",
+   "type": "page",
+   "category": ""
+  },
+  "87b82a111a": {
+   "url": "https://amar.org.ir/agri-census",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\87b82a111a_نتایج سرشماری عمومی کشاورزی.html",
+   "type": "page",
+   "category": ""
+  },
+  "ca944f41ed": {
+   "url": "https://amar.org.ir/nomadic-census",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\ca944f41ed_نتایج سرشماری اجتماعی اقتصادی عشایر کوچنده.html",
+   "type": "page",
+   "category": ""
+  },
+  "0431c743c5": {
+   "url": "https://amar.org.ir/registration-census",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\0431c743c5_سرشماری عمومی نفوس و مسکن ثبتی‌مبنا.html",
+   "type": "page",
+   "category": ""
+  },
+  "d11b9e0035": {
+   "url": "https://amar.org.ir/report-system2",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\d11b9e0035_داشبوردهای آماری (ورود کاربران).html",
+   "type": "page",
+   "category": ""
+  },
+  "e664617a52": {
+   "url": "https://amar.org.ir/inflation_calculator",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\e664617a52_محاسبه‌گر نرخ تورم.html",
+   "type": "page",
+   "category": ""
+  },
+  "76d0d16c5a": {
+   "url": "https://amar.org.ir/building-permit-system",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\76d0d16c5a_پروانه‌های ساختمانی (جمع‌آوری اطلاعات).html",
+   "type": "page",
+   "category": ""
+  },
+  "09430341f6": {
+   "url": "https://amar.org.ir/retirement-center",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\09430341f6_درگاه ملی آمار _ میز خدمت و سامانه‌ها _ سامانه‌های ویژه همکاران _ کانون بازنشستگان.html",
+   "type": "page",
+   "category": ""
+  },
+  "efc1cbb6c0": {
+   "url": "https://amar.org.ir/servicedesk",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\efc1cbb6c0_میز خدمت الکترونیکی.html",
+   "type": "page",
+   "category": ""
+  },
+  "77495cd32c": {
+   "url": "https://amar.org.ir/transparency",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\77495cd32c_سامانه شفافیت.html",
+   "type": "page",
+   "category": ""
+  },
+  "6111cd820f": {
+   "url": "https://amar.org.ir/Public-participationsurvey",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\6111cd820f_راهبرد مشارکت مردمی در ارائه خدمات با کیفیت.html",
+   "type": "page",
+   "category": ""
+  },
+  "08eab91f3d": {
+   "url": "https://amar.org.ir/Analysisoftheresults",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\08eab91f3d_تحلیل و نتایج مشارکت مردمی.html",
+   "type": "page",
+   "category": ""
+  },
+  "6a1dffe691": {
+   "url": "https://amar.org.ir/Portals/0/transparency/BarnameEjraii_Tosee_DolatElectronic_1404.pdf",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\فایل‌ها\\6a1dffe691_BarnameEjraii_Tosee_DolatElectronic_1404.pdf",
+   "type": "file"
+  },
+  "db1e47c14a": {
+   "url": "https://amar.org.ir/news/articleType/TagView/Tag/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A2%D9%85%D8%A7%D8%B1%DB%8C",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\db1e47c14a_درگاه ملی آمار _ آرشیو اخبار مرکز آمار ایران _ اخبار آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "4666311a66": {
+   "url": "https://amar.org.ir/news/articleType/TagView/Tag/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86%DB%8C",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\4666311a66_درگاه ملی آمار _ آرشیو اخبار مرکز آمار ایران _ اخبار سازمانی.html",
+   "type": "page",
+   "category": ""
+  },
+  "b883cc6417": {
+   "url": "https://amar.org.ir/news/articleType/TagView/Tag/%D8%AA%D8%A7%D8%B2%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D9%86%D8%B4%D8%B1",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\b883cc6417_درگاه ملی آمار _ آرشیو اخبار مرکز آمار ایران _ تازه‌های نشر.html",
+   "type": "page",
+   "category": ""
+  },
+  "913f468936": {
+   "url": "https://amar.org.ir/interview",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\913f468936_درگاه ملی آمار _ اطلاع‌رسانی _ مصاحبه و تحلیل و یادداشت.html",
+   "type": "page",
+   "category": ""
+  },
+  "0fb20fc1f7": {
+   "url": "https://amar.org.ir/podcast",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\0fb20fc1f7_چندرسانه‌ای.html",
+   "type": "page",
+   "category": ""
+  },
+  "cd62d72c64": {
+   "url": "https://amar.org.ir/publishing-calendar1405",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\cd62d72c64_تقویم انتشارات و تجديد نظر‌های سال 1405.html",
+   "type": "page",
+   "category": ""
+  },
+  "891ada3faa": {
+   "url": "https://amar.org.ir/Vision-and-mission",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\891ada3faa_چشم انداز و ماموریت.html",
+   "type": "page",
+   "category": ""
+  },
+  "9181b7ce67": {
+   "url": "https://amar.org.ir/Law-of-the-Statistics-Center-of-Iran",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\9181b7ce67_قانون مرکز آمار ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "008cb67779": {
+   "url": "https://amar.org.ir/Macro-goals",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\008cb67779_اهداف کلان.html",
+   "type": "page",
+   "category": ""
+  },
+  "a4d5fbcc05": {
+   "url": "https://amar.org.ir/Ethical-Charter-and-Values",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\a4d5fbcc05_درگاه ملی آمار _ درباره ما _ درباره مرکز آمار ایران _ منشور اخلاقی و ارزش‌ها.html",
+   "type": "page",
+   "category": ""
+  },
+  "de2829985a": {
+   "url": "https://amar.org.ir/Strategies-and-policies",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\de2829985a_درگاه ملی آمار _ درباره ما _ درباره مرکز آمار ایران _ راهبرد‌‌ها و خط مشی‌ها.html",
+   "type": "page",
+   "category": ""
+  },
+  "ff9995f5fb": {
+   "url": "https://amar.org.ir/research-policies",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\ff9995f5fb_طرح‌های پژوهشی مرکز آمار ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "23d932ba2b": {
+   "url": "https://amar.org.ir/History-and-previous-presidents",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\23d932ba2b_تاریخچه و روسای پیشین.html",
+   "type": "page",
+   "category": ""
+  },
+  "3ca3dab4d1": {
+   "url": "https://amar.org.ir/Organizational-chart-and-organization",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\3ca3dab4d1_درگاه ملی آمار _ درباره ما _ درباره مرکز آمار ایران _ نمودار سازمانی و تشکیلات.html",
+   "type": "page",
+   "category": ""
+  },
+  "ac60de51fe": {
+   "url": "https://amar.org.ir/Performance-Report",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\ac60de51fe_درگاه ملی آمار _ درباره ما _ درباره مرکز آمار ایران _ گزارش عملکرد.html",
+   "type": "page",
+   "category": ""
+  },
+  "04d442944f": {
+   "url": "https://amar.org.ir/about-the-national-statistics-portal",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\04d442944f_درباره درگاه ملی آمار.html",
+   "type": "page",
+   "category": ""
+  },
+  "10cba3cea2": {
+   "url": "https://amar.org.ir/country-statistical-system",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\10cba3cea2_درگاه ملی آمار _ درباره ما _ درباره نظام آماری _ نظام آماری کشور.html",
+   "type": "page",
+   "category": ""
+  },
+  "b58699fd31": {
+   "url": "https://amar.org.ir/regulations-and-regulations-of-the-statistical-system",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\b58699fd31_درگاه ملی آمار _ درباره ما _ درباره نظام آماری _ مقررات و آیین نامه‌های نظام آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "6b78894096": {
+   "url": "https://amar.org.ir/AmarRasmi",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\6b78894096_فهرست آمارهای رسمی کشور.html",
+   "type": "page",
+   "category": ""
+  },
+  "0e94dfff90": {
+   "url": "https://amar.org.ir/basic-principles-of-official-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\0e94dfff90_درگاه ملی آمار _ درباره ما _ درباره نظام آماری _ اصول اساسی آمارهای رسمی.html",
+   "type": "page",
+   "category": ""
+  },
+  "4e157b2b2d": {
+   "url": "https://amar.org.ir/secretariat-of-the-high-council-of-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\4e157b2b2d_دبیرخانه شورای عالی آمار.html",
+   "type": "page",
+   "category": ""
+  },
+  "ac9f51ebcc": {
+   "url": "https://amar.org.ir/درباره-ما/درباره-نظام-آماری/آئین-نامه-و-فرم-نظارت-بر-طرح-آماری",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\ac9f51ebcc_آئین نامه ها و فرم های نظارت بر طرح های آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "76c431dd31": {
+   "url": "https://amar.org.ir/Portals/0/About/fehrest_tarh_amari_1405.pdf",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\فایل‌ها\\76c431dd31_fehrest_tarh_amari_1405.pdf",
+   "type": "file"
+  },
+  "10b8b2e569": {
+   "url": "https://amar.org.ir/Portals/0/About/fehrest_namagar_amari_1405.pdf",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\فایل‌ها\\10b8b2e569_fehrest_namagar_amari_1405.pdf",
+   "type": "file"
+  },
+  "35d14989f7": {
+   "url": "https://amar.org.ir/contacts",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\35d14989f7_درگاه ملی آمار _ ارتباط با ما _ اطلاعات تماس.html",
+   "type": "page",
+   "category": ""
+  },
+  "7770589ef1": {
+   "url": "https://amar.org.ir/your-voice",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\7770589ef1_درخواست‌های آماری کاربران طبق چارچوب معین‌شده.html",
+   "type": "page",
+   "category": ""
+  },
+  "d3d34aa03d": {
+   "url": "https://amar.org.ir/receiving-questions",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\d3d34aa03d_دریافت پرسش، انتقاد، پیشنهاد و شکایت.html",
+   "type": "page",
+   "category": ""
+  },
+  "ac938983f8": {
+   "url": "https://amar.org.ir/public-meeting",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\ac938983f8_ملاقات مردمی با ریاست مرکز آمار ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "f9830dc7d3": {
+   "url": "https://amar.org.ir/frequently-question",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\f9830dc7d3_درگاه ملی آمار _ ارتباط با ما _ سوالات متداول.html",
+   "type": "page",
+   "category": ""
+  },
+  "428362b05e": {
+   "url": "https://amar.org.ir/Participationandvoting",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\428362b05e_نظرسنجی‌ها.html",
+   "type": "page",
+   "category": ""
+  },
+  "dda7edbdef": {
+   "url": "https://amar.org.ir/customer-counter",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\dda7edbdef_پیشخوان ارباب رجوع.html",
+   "type": "page",
+   "category": ""
+  },
+  "df4630f00a": {
+   "url": "https://amar.org.ir/demographic-and-social-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\df4630f00a_درگاه ملی آمار _ داده‌‌‌ها و اطلاعات آماری _ آمارهای جمعیتی و اجتماعی.html",
+   "type": "page",
+   "category": ""
+  },
+  "22b9197a22": {
+   "url": "https://amar.org.ir/economic-statistics",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\22b9197a22_درگاه ملی آمار _ داده‌‌‌ها و اطلاعات آماری _ آمارهای اقتصادی.html",
+   "type": "page",
+   "category": ""
+  },
+  "738a1ef9ed": {
+   "url": "https://amar.org.ir/دادهها-و-اطلاعات-آماری/آمارهای-فرابخشی-و-محیط-زیست",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\738a1ef9ed_درگاه ملی آمار _ داده‌‌‌ها و اطلاعات آماری _ آمارهای فرابخشی و محیط زیست.html",
+   "type": "page",
+   "category": ""
+  },
+  "798aa52bcf": {
+   "url": "https://amar.org.ir/metadata-and-methodology",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\798aa52bcf_روش‌شناسی و زیرساخت‌های آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "130dbff19e": {
+   "url": "https://amar.org.ir/GEO",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\130dbff19e_نقشه‌های آماری و اطلاعات مکانی.html",
+   "type": "page",
+   "category": ""
+  },
+  "157524e3ec": {
+   "url": "https://amar.org.ir/Portals/0/census/1405/Documents/cn05_InternetiHelp.pdf",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\فایل‌ها\\157524e3ec_cn05_InternetiHelp.pdf",
+   "type": "file"
+  },
+  "d02fdbafb4": {
+   "url": "https://amar.org.ir/Portals/0/census/1405/Documents/cn05_internetiFAQ.pdf",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\فایل‌ها\\d02fdbafb4_cn05_internetiFAQ.pdf",
+   "type": "file"
+  },
+  "d1a52de70d": {
+   "url": "https://amar.org.ir/Portals/0/Articles/etelayiye madarek.pdf",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\فایل‌ها\\d1a52de70d_etelayiye madarek.pdf",
+   "type": "file"
+  },
+  "27ec42db82": {
+   "url": "https://amar.org.ir/news/id/20367/شاخص-قيمت-توليدكننده-بخش-صنعت-تابستان-1405بر-مبنای-سال-پایه-1400",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\27ec42db82_شاخص قيمت توليدكننده بخش صنعت-تابستان 1405(بر مبنای سال پایه 1400).html",
+   "type": "page",
+   "category": ""
+  },
+  "cbc3c42d88": {
+   "url": "https://amar.org.ir/news/id/20368/شاخص-قيمت-توليدكننده-بخش-معدن-تابستان-1405-بر-مبنای-سال-پایه-1400",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\cbc3c42d88_شاخص قيمت توليدكننده بخش معدن-تابستان 1405 (بر مبنای سال پایه 1400).html",
+   "type": "page",
+   "category": ""
+  },
+  "a2ea12d327": {
+   "url": "https://amar.org.ir/news/id/20372/انتشار-نسخه-الکترونیکی-گزارش-وضعیت-اجتماعی-و-فرهنگی-ایران-بهار-1405",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\a2ea12d327_انتشار نسخه الکترونیکی گزارش وضعیت اجتماعی و فرهنگی ایران بهار 1405.html",
+   "type": "page",
+   "category": ""
+  },
+  "8c85bf707e": {
+   "url": "https://amar.org.ir/news/id/20371/مصاحبه-روز-نامه-جام-جم-با-رئیس-مرکز-آمار-ایران-بخش-اول",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\8c85bf707e_مصاحبه روزنامه جام جم با رئیس مرکز آمار ایران- بخش اول.html",
+   "type": "page",
+   "category": ""
+  },
+  "648ca6c438": {
+   "url": "https://amar.org.ir/news/id/20370/شاخص-قيمت-توليدكننده-بخشهای-خدمات-ـ-فصل-تابستان-1405-بر-مبنای-سال-پایه-1400",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\648ca6c438_شاخص قيمت توليدكننده بخش‌های خدمات ـ فصل تابستان 1405 (بر مبنای سال پایه 1400).html",
+   "type": "page",
+   "category": ""
+  },
+  "b2658d641e": {
+   "url": "https://amar.org.ir/news/id/20369/شاخص-قيمت-توليدكننده-بخش-برق-تابستان-1405-بر-مبناي-سال-پايه-1400",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\b2658d641e_شاخص قيمت توليدكننده بخش برق تابستان 1405 ( بر مبناي سال پايه 1400).html",
+   "type": "page",
+   "category": ""
+  },
+  "676f983541": {
+   "url": "https://amar.org.ir/news",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\676f983541_درگاه ملی آمار _ اطلاع‌رسانی _ آرشیو اخبار مرکز آمار ایران _ صفحه 1 از 432.html",
+   "type": "page",
+   "category": ""
+  },
+  "ff563c1b2a": {
+   "url": "https://amar.org.ir/statistical-information/catid/3005",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\ff563c1b2a_داده‌ها و اطلاعات آماری.html",
+   "type": "page",
+   "category": ""
+  },
+  "c85f27c42d": {
+   "url": "https://amar.org.ir/news/id/20361/برگزاری-یکصدوسی-و-هفتمین-شورای-هماهنگی-و-تلفیق-سرشماری-عمومی-نفوس-و-مسکن-ثبتی-مبنا",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\c85f27c42d_برگزاری یکصدوسی و هفتمین شورای هماهنگی و تلفیق سرشماری عمومی نفوس و مسکن ثبتی مبنا.html",
+   "type": "page",
+   "category": ""
+  },
+  "9991a0ea2b": {
+   "url": "https://amar.org.ir/news/id/20341/گزارش-تصویری-مراسم-روز-آمار-و-برنامهریزی-و-افتتاحیه-سرشماری-عمومی-نفوس-و-مسکن-ثبتی-مبنا-1405-با-حضور-ریاست-محترم-جمهوری",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\9991a0ea2b_گزارش تصویری مراسم روز آمار و برنامه‌ریزی و افتتاحیه سرشماری عمومی نفوس و مسکن ثبتی مبنا 1.html",
+   "type": "page",
+   "category": ""
+  },
+  "a687fd376a": {
+   "url": "https://amar.org.ir/news/id/20328/یکصدوسی-و-هفتمین-شورای-هماهنگی-و-تلفیق-سرشماری-عمومی-نفوس-و-مسکن-ثبتی-مبنا",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\a687fd376a_یکصدوسی و ششمین شورای هماهنگی و تلفیق سرشماری عمومی نفوس و مسکن ثبتی مبنا.html",
+   "type": "page",
+   "category": ""
+  },
+  "ecce9a6b0f": {
+   "url": "https://amar.org.ir/news/categoryid/345",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\ecce9a6b0f_درگاه ملی آمار _ اطلاع‌رسانی _ آرشیو اخبار مرکز آمار ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "0093c6e768": {
+   "url": "https://amar.org.ir/news/categoryid/56",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\0093c6e768_درگاه ملی آمار _ اطلاع‌رسانی _ آرشیو اخبار مرکز آمار ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "3cc9f930c6": {
+   "url": "https://amar.org.ir/links/categoryid/436",
+   "path": "D:\\amayesh\\محتوای جدید\\مرکز آمار ایران\\صفحات\\3cc9f930c6_پیوندهای مفید.html",
+   "type": "page",
+   "category": ""
+  },
+  "406268010f": {
+   "url": "https://iranstatis.com/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\406268010f_ایران استاتیس _ مرجع داده‌های رسمی ایران و جهان 📊ایران استاتیس _ مرجع داده‌های رسمی ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "539e99cf51": {
+   "url": "https://iranstatis.com",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\539e99cf51_ایران استاتیس _ مرجع داده‌های رسمی ایران و جهان 📊ایران استاتیس _ مرجع داده‌های رسمی ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "138c129d69": {
+   "url": "https://iranstatis.com/category/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\138c129d69_دسته‌بندی - بروزترین و صحیح‌ترین آمار در یکجادسته‌بندی داده‌ها و آمار ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "1e69f1910d": {
+   "url": "https://iranstatis.com/login/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\1e69f1910d_ورود - ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "181c36f2b5": {
+   "url": "https://iranstatis.com/subscription/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\181c36f2b5_اشتراک_ثبت نام - ایران استاتیسخرید اشتراک - IranStatis.html",
+   "type": "page",
+   "category": ""
+  },
+  "180675af6f": {
+   "url": "https://iranstatis.com/about/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\180675af6f_درباره ما - ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "f4657349ef": {
+   "url": "https://iranstatis.com/data-lab/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\f4657349ef_بانک جامع آماری ایران _ مشاهده، مقایسه و ساخت آنلاین شاخص.html",
+   "type": "page",
+   "category": ""
+  },
+  "71156e92c3": {
+   "url": "https://iranstatis.com/infographic/iran-population-pyramid-30-year-change/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\71156e92c3_تغییر هرم سنی جمعیت ایران از ۱۳۷۵ تا ۱۴۰۵.html",
+   "type": "page",
+   "category": ""
+  },
+  "06d234ff92": {
+   "url": "https://iranstatis.com/infographic/tehran-municipality-funding-1404/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\06d234ff92_منابع مالی شهرداری تهران در سال ۱۴۰۴ _ ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "a7a22a8ebe": {
+   "url": "https://iranstatis.com/infographic/iran-construction-activity-1404/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\a7a22a8ebe_آمار ساخت‌وساز ۱۴۰۴؛ کاهش ۳۸ درصدی آغاز ساخت _ ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "484d6a8d67": {
+   "url": "https://iranstatis.com/infographic/iran-domestic-travel-spring-summer-1404/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\484d6a8d67_آمار سفرهای داخلی ایران در ۱۴۰۴ _ ایران‌استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "b0f4191d90": {
+   "url": "https://iranstatis.com/infographic/iran-inflation-mehr-1405-infographic/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\b0f4191d90_تورم مهر ۱۴۰۵؛ نرخ ماهانه، سالانه و نقطه‌به‌نقطه.html",
+   "type": "page",
+   "category": ""
+  },
+  "f890c2f011": {
+   "url": "https://iranstatis.com/infographic/iran-road-freight-fleet-age-1404/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\f890c2f011_فرسودگی ناوگان باری ایران در سال ۱۴۰۴ _ آمار و اینفوگرافیک.html",
+   "type": "page",
+   "category": ""
+  },
+  "402a409896": {
+   "url": "https://iranstatis.com/infographic/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\402a409896_اینفوگراف‌ها - ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "b0ff9226b2": {
+   "url": "https://iranstatis.com/nationalaccount",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\b0ff9226b2_حساب‌های ملی و استانی - تولید ناخالص داخلی، رشد اقتصادی، شاخص مقدار تولید.html",
+   "type": "page",
+   "category": ""
+  },
+  "0adfbacc3a": {
+   "url": "https://iranstatis.com/inflation/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\0adfbacc3a_نرخ تورم ایران ۱۴۰۵ _ تورم ماهانه، نقطه‌ای و سالانه.html",
+   "type": "page",
+   "category": ""
+  },
+  "bdb96e4a7b": {
+   "url": "https://iranstatis.com/government_budget/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\bdb96e4a7b_بودجه دولت و مالیات - درآمدهای مالیاتی، درآمدهای دولت، هزینه‌های دولت.html",
+   "type": "page",
+   "category": ""
+  },
+  "02f68994f7": {
+   "url": "https://iranstatis.com/economic/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\02f68994f7_شاخص‌های کلان اقتصادیشاخص‌های کلان اقتصادی ایران _ ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "37ceaa90cb": {
+   "url": "https://iranstatis.com/trade/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\37ceaa90cb_آمار تجارت بین المللی (صادرات و واردات) - تراز تجاری، صادرات، واردات.html",
+   "type": "page",
+   "category": ""
+  },
+  "a5cd3946c6": {
+   "url": "https://iranstatis.com/startup",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\a5cd3946c6_استارتاپ - دیجیتال مارکتینگ.html",
+   "type": "page",
+   "category": ""
+  },
+  "d46c85dbf5": {
+   "url": "https://iranstatis.com/gold-currency/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\d46c85dbf5_نرخ طلا و ارز ایران _ سری زمانی قیمت دلار، سکه و طلا.html",
+   "type": "page",
+   "category": ""
+  },
+  "0cfdd341a9": {
+   "url": "https://iranstatis.com/business",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\0cfdd341a9_محیط کسب و کار، عملکرد دولت در محیط کسب و کار، سهولت کسب و کار.html",
+   "type": "page",
+   "category": ""
+  },
+  "ac515fa26d": {
+   "url": "https://iranstatis.com/house",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\ac515fa26d_آمار جامع بازار مسکن ایران _ قیمت، ساخت و ساز، اجاره - ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "801d717f2b": {
+   "url": "https://iranstatis.com/Housing_rent",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\801d717f2b_قیمت مسکن، اجاره و زمین در ایران _ آمار و تورم بازار مسکنآمار قیمت، اجاره مسکن و زمین _ ای.html",
+   "type": "page",
+   "category": ""
+  },
+  "034b97754a": {
+   "url": "https://iranstatis.com/bank/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\034b97754a_آمارهای بانک و پول - وضعیت بانک‌ها، تسهیلات و سپرده بانکی.html",
+   "type": "page",
+   "category": ""
+  },
+  "e2058b546f": {
+   "url": "https://iranstatis.com/insurance/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\e2058b546f_بیمه - وضعیت بیمه ایران و جهان، حق بیمه و خسارات، وضعیت شرکت بیمهآمارهای صنعت بیمه _ ایران.html",
+   "type": "page",
+   "category": ""
+  },
+  "8b0e46465d": {
+   "url": "https://iranstatis.com/exchange/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\8b0e46465d_بورس - وضعیت بورس و اوراق بهادار، شاخص سود نقدی و قیمت شرکت‌های بورسی.html",
+   "type": "page",
+   "category": ""
+  },
+  "bce2df69e1": {
+   "url": "https://iranstatis.com/productivity/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\bce2df69e1_آمار بهره‌وری ایران _ نیروی کار، سرمایه، TFP و حسابداری رشد.html",
+   "type": "page",
+   "category": ""
+  },
+  "2d05bd54f8": {
+   "url": "https://iranstatis.com/output",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\2d05bd54f8_جداول داده ستانده - مرکز آمار ایران و بانک مرکزی.html",
+   "type": "page",
+   "category": ""
+  },
+  "31b0664599": {
+   "url": "https://iranstatis.com/technology",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\31b0664599_فناوری و نو آوری - شرکت‌های دانش بنیان، تحقیق و توسعهآمارهای فناوری و نوآوری _ ایران استات.html",
+   "type": "page",
+   "category": ""
+  },
+  "1fd4724df9": {
+   "url": "https://iranstatis.com/population/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\1fd4724df9_آمارهای جمعیت و مهاجرت - جمعیت و خانوار، تولد، مرگ و میر، ازدواج، طلاق، مهاجرت.html",
+   "type": "page",
+   "category": ""
+  },
+  "2c4da5ba8a": {
+   "url": "https://iranstatis.com/labor-market/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\2c4da5ba8a_نرخ بیکاری، نرخ مشارکت اقتصادی، شاغل و بیکار، کارمندان دولت، حوادث ناشی از کار.html",
+   "type": "page",
+   "category": ""
+  },
+  "afaa1e8284": {
+   "url": "https://iranstatis.com/educaton/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\afaa1e8284_📊 آمار آموزش ایران (1322- 1405) - ابتدایی‌تا‌عالی، عدالت آموزشی، فنی‌و‌حرفه‌ای، سواد.html",
+   "type": "page",
+   "category": ""
+  },
+  "95aa4732b4": {
+   "url": "https://iranstatis.com/health/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\95aa4732b4_آمار سلامت ایران _ داده‌های بیمارستان، پزشک، دارو و هزینه درمان - مرکز بهداشتی و درمانی، پ.html",
+   "type": "page",
+   "category": ""
+  },
+  "b057b7c248": {
+   "url": "https://iranstatis.com/expensesincome/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\b057b7c248_آمار هزینه و درآمد خانوار ایران _ فقر و ضریب جینی _ ایران استاتیس - هزینه خوراکی، هزینه غی.html",
+   "type": "page",
+   "category": ""
+  },
+  "98c645fa6d": {
+   "url": "https://iranstatis.com/justice&crime/",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\98c645fa6d_عدالت و جرم - قتل، شرارت، سرقت، مواد مخدر، حاکمیت قانون.html",
+   "type": "page",
+   "category": ""
+  },
+  "d2b0cfe358": {
+   "url": "https://iranstatis.com/social-supportdisability",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\d2b0cfe358_. - بهزیستی، کمیته امداد، بیمه تامین اجتماعی، معلولانآمارهای حمایت اجتماعی، بهزیستی و بیمه تامین اجتماعی _ ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  },
+  "ecd0d973cd": {
+   "url": "https://iranstatis.com/culture",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\ecd0d973cd_آمار فرهنگ ایران_ سینما، کتابخانه، موسیقی و کنسرت - ایران استاتیسآمارهای فرهنگ _ ایران است.html",
+   "type": "page",
+   "category": ""
+  },
+  "1b417133e0": {
+   "url": "https://iranstatis.com/tourism",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\1b417133e0_گردشگر، اقامتگاه (هتل، هتل آپارتمان و ...)، موزه و بناهای تاریخی.html",
+   "type": "page",
+   "category": ""
+  },
+  "b6758a17a6": {
+   "url": "https://iranstatis.com/youth&old-age",
+   "path": "D:\\amayesh\\محتوای جدید\\ایران استاتیس\\صفحات\\b6758a17a6_جوانان و سالمندی و زنانآمارهای جوانان، سالمندان و زنان _ ایران استاتیس.html",
+   "type": "page",
+   "category": ""
+  }
+ },
+ "failed": {
+  "65fec41968": {
+   "url": "https://amar.org.ir/the-environment2",
+   "error": "HTTP Error 500: Internal Server Error"
+  },
+  "b499cab1e2": {
+   "url": "https://amar.org.ir/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-/%D8%A2%D8%B1%D8%B4%DB%8C%D9%88-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%B1%D9%88%D8%B2-%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%DB%8C%D8%B2%DB%8C",
+   "error": "HTTP Error 500: Internal Server Error"
+  },
+  "4a3086030c": {
+   "url": "https://amar.org.ir/statistical-information?catid=3503",
+   "error": "HTTP Error 500: Internal Server Error"
+  },
+  "61a65b9c91": {
+   "url": "https://amar.org.ir/statistical-information?catid=3505",
+   "error": "HTTP Error 500: Internal Server Error"
+  },
+  "9f1559a2d9": {
+   "url": "https://amar.org.ir/statistical-information?catid=3506",
+   "error": "timed out"
+  },
+  "06befaabad": {
+   "url": "https://amar.org.ir/statistical-information?catid=3507",
+   "error": "HTTP Error 500: Internal Server Error"
+  }
+ }
+}

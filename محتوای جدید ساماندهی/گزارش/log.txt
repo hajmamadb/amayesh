@@ -1,0 +1,13 @@
+2026-11-05 05:33:27 [INFO] ===================================================
+2026-11-05 05:33:27 [INFO] شروع دانلود | هدف: D:\amayesh\محتوای جدید ساماندهی | سایت: iranstatis | Workers: 4 | نرخ: 6/s
+2026-11-05 05:33:27 [INFO] ===================================================
+2026-11-05 05:33:27 [INFO] ==== شروع crawl iranstatis.com ====
+2026-11-05 05:33:27 [INFO] استخراج فهرست کامل از REST API وردپرس...
+2026-11-05 05:33:30 [WARN] خطا REST pages page 1 : HTTP 404 for https://iranstatis.com/wp-json/wp/v2/=100&page=1
+2026-11-05 05:33:30 [INFO]   pages: 0 مورد
+2026-11-05 05:33:32 [WARN] خطا REST posts page 1 : HTTP 404 for https://iranstatis.com/wp-json/wp/v2/=100&page=1
+2026-11-05 05:33:32 [INFO]   posts: 0 مورد
+2026-11-05 05:33:33 [WARN] خطا REST categories page 1 : HTTP 404 for https://iranstatis.com/wp-json/wp/v2/=100&page=1
+2026-11-05 05:33:33 [INFO]   categories: 0 مورد
+2026-11-05 05:33:35 [WARN] خطا REST tags page 1 : HTTP 404 for https://iranstatis.com/wp-json/wp/v2/=100&page=1
+2026-11-05 05:33:35 [INFO]   tags: 0 مورد

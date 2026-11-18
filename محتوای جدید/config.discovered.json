@@ -1,0 +1,36 @@
+{
+ "generated": "2026-11-05T08:04:09",
+ "output_root": "D:\\amayesh\\محتوای جدید",
+ "sites": [
+  {
+   "name": "مرکز آمار ایران",
+   "folder": "مرکز آمار ایران",
+   "stats": {
+    "pages": 9,
+    "files": 40,
+    "bytes": 27915103,
+    "errors": 1
+   },
+   "sections": {
+    "/": 2,
+    "classifications": 1,
+    "en": 1,
+    "population-and-migration": 1,
+    "report-system2": 1,
+    "salnameh-amari": 1,
+    "statistical-information": 2
+   },
+   "start_urls": [
+    "https://amar.org.ir/",
+    "https://amar.org.ir/statistical-information",
+    "https://amar.org.ir/salnameh-amari",
+    "https://amar.org.ir/classifications",
+    "https://amar.org.ir/report-system2",
+    "https://amar.org.ir/en",
+    "http://amar.org.ir/",
+    "http://amar.org.ir/statistical-information",
+    "https://amar.org.ir/population-and-migration"
+   ]
+  }
+ ]
+}

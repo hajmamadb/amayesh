@@ -1,0 +1,157 @@
+# درخواست پژوهش عمیق: تجربه بین‌المللی در سامانه‌های آمایش سرزمین و داشبوردهای مدیریت شهری
+
+## زمینه
+من در حال طراحی سامانه اطلاعات مکانی آمایش سرزمین برای یک استان ایران هستم. برای اطمینان از به‌روز بودن طراحی، نیاز به مطالعه تطبیقی با تجربه‌های بین‌المللی موفق دارم.
+
+## محور ۱ — سامانه‌های ملی آمایش در کشورهای مختلف
+
+### ۱.۱ کره جنوبی
+- KRIHS (Korea Research Institute for Human Settlements)
+- سامانه KOSIS (Korean Statistical Information Service)
+- سامانه SGIS (Statistical Geographic Information Service)
+- معماری، شاخص‌ها، سطوح جغرافیایی، نحوه حکمرانی داده
+
+### ۱.۲ ژاپن
+- سامانه e-Stat (Statistics Bureau of Japan)
+- سامانه RESAS (Regional Economy and Society Analyzing System)
+- سامانه GSI (Geospatial Information Authority)
+- شاخص‌های منطقه‌ای، داشبوردهای مدیریتی
+
+### ۱.۳ اروپا
+- **Eurostat:** شاخص‌های NUTS (Nomenclature of Territorial Units for Statistics)
+- **ESPON (European Spatial Planning Observation Network):** شاخص‌های آمایش اروپا
+- **URBACT:** شبکه شهرهای پایدار اروپا
+- **Urban Atlas:** پایگاه داده کاربری اراضی شهری اروپا
+
+### ۱.۴ انگلستان
+- ONS (Office for National Statistics) — سامانه‌های LSOA/MSOA
+- سامانه IMDS (Index of Multiple Deprivation)
+- سامانه Nomis
+
+### ۱.۵ آمریکا
+- Census Bureau — سامانه American FactFinder
+- سامانه ACS (American Community Survey)
+- سامانه HUD (Housing and Urban Development) — شاخص‌های مسکن و توسعه شهری
+
+### ۱.۶ استرالیا
+- ABS (Australian Bureau of Statistics) — سامانه SEIFA (Socio-Economic Indexes for Areas)
+- سامانه Urban Centres and Localities
+
+### ۱.۷ چین
+- سامانه آمایش سرزمین چین (Major Function Oriented Zoning)
+- شاخص‌های توسعه منطقه‌ای
+
+### ۱.۸ هند
+- سامانه Census of India
+- سامانه DISHA (District Information System for Health)
+
+برای هر کشور، این موارد را استخراج کن:
+- **معماری کلی:** لایه‌های داده، مدل داده، سطح جغرافیایی
+- **تعداد و نوع شاخص‌ها:** چند خوشه، چند شاخص
+- **نحوه حکمرانی داده:** چه نهادی مسئول چیست؟
+- **دسترسی عمومی:** چه چیزی عمومی است، چه چیزی محدود؟
+- **نقاط قوت و ضعف**
+
+## محور ۲ — سامانه‌های موفق آمایش منطقه‌ای
+
+### ۲.۱ سامانه‌های آمایش در کشورهای در حال توسعه
+- تجربه ترکیه (TUIK + آمایش منطقه‌ای)
+- تجربه مالزی (Department of Statistics Malaysia + آمایش)
+- تجربه برزیل (IBGE + آمایش)
+
+### ۲.۲ سامانه‌های آمایش در کشورهای با تنوع قومی/فرهنگی
+- تجربه هند (چندزبانه، چندفرهنگی)
+- تجربه اندونزی (BPS + آمایش)
+- تجربه نیجریه
+
+## محور ۳ — داشبوردهای مدیریت شهری موفق
+
+### ۳.۱ داشبوردهای شهری بین‌المللی
+- **CityScope (MIT Media Lab):** داشبورد مشارکتی
+- **Urban Observatory (Esri):** داشبورد مقایسه‌ای شهرها
+- **Smart City Dashboard (Amsterdam, Barcelona, Singapore)**
+- **Dubai Pulse:** داشبورد داده باز دبی
+
+### ۳.۲ کتابخانه‌های فنی و معماری
+- **ArcGIS Urban:** ابزار برنامه‌ریزی شهری Esri
+- **QGIS + plugins:** جایگزین متن‌باز
+- **Kepler.gl:** تحلیل مکانی متن‌باز
+- **Mapbox GL JS:** برای داشبوردهای تعاملی
+- **Leaflet:** کتابخانه سبک نقشه
+- **Deck.gl:** برای داده‌های حجیم مکانی
+
+### ۳.۳ استانداردهای داشبورد
+- **Open Data Standards:** DCAT, CKAN
+- **Data Visualization Best Practices:** Cleveland & McGill, Tufte
+- **Accessibility:** WCAG 2.1 برای داشبوردهای عمومی
+- **RTL Support:** تجربه‌های کشورهای عربی/عبری در RTL
+
+## محور ۴ — مدل داده و معماری فنی
+
+### ۴.۱ مدل داده سامانه‌های بین‌المللی
+- **SDMX (Statistical Data and Metadata eXchange):** استاندارد تبادل داده آماری
+- **INSPIRE Directive (EU):** استاندارد داده مکانی اروپا
+- **ISO 19115/19139:** استاندارد فراداده مکانی
+- **OGC Standards:** WMS, WFS, WCS, WMTS
+
+### ۴.۲ معماری فنی موفق
+- **Data Lake vs Data Warehouse vs Data Mesh**
+- **ترکیب PostGIS + Elasticsearch + TimescaleDB**
+- **معماری Microservices برای سامانه‌های بزرگ مقیاس**
+- **API Standards:** OGC API - Features, STAC
+- **Real-time data pipelines:** Kafka, Airflow
+
+### ۴.۳ امنیت و حکمرانی داده
+- **Data Classification Standards:** public, restricted, confidential, top-secret
+- **Role-Based Access Control (RBAC) + Attribute-Based (ABAC)**
+- **Audit Logging:** استانداردهای ISO 27001
+- **Privacy:** GDPR، حریم خصوصی داده‌های مکانی
+
+## محور ۵ — شاخص‌های ترکیبی و روش‌شناسی
+
+### ۵.۱ روش‌های وزن‌دهی
+- AHP (Analytic Hierarchy Process)
+- ANP (Analytic Network Process)
+- Fuzzy AHP
+- TOPSIS
+- VIKOR
+- ELECTRE
+- DEA (Data Envelopment Analysis)
+- PROMETHEE
+
+برای هر روش:
+- کاربرد اصلی
+- مزایا و محدودیت‌ها
+- نرم‌افزار/کتابخانه پیاده‌سازی
+- مثال کاربردی در آمایش
+
+### ۵.۲ روش‌های تحلیل فضایی
+- **Moran's I (Global and Local):** خودهمبستگی فضایی
+- **Geographically Weighted Regression (GWR):** رگرسیون وزنی مکانی
+- **Spatial Autocorrelation**
+- **Cluster Analysis:** K-means, DBSCAN, Hierarchical
+- **Hot Spot Analysis:** Getis-Ord Gi*
+- **Network Analysis:** کوتاه‌ترین مسیر، حداکثر پوشش
+
+### ۵.۳ شاخص‌های ترکیبی موفق بین‌المللی
+- **HDI (Human Development Index):** ساختار، وزن‌ها، نقدها
+- **Multidimensional Poverty Index (MPI)**
+- **Gini Coefficient:** روش محاسبه
+- **IMD (Index of Multiple Deprivation) — UK:** ۷ دامنه، ۳۹ شاخص
+- **SEIFA — Australia:** ۴ شاخص
+- **City Prosperity Index — UN-Habitat**
+
+## محور ۶ — درس‌آموخته‌ها برای ایران
+
+بر پایه تجربه‌های بالا، ۱۰ توصیه کلیدی برای طراحی سامانه آمایش ایران استخراج کن:
+- چه چیزی از تجربه کره/ژاپن قابل اقتباس است؟
+- چه چیزی از تجربه اروپا؟
+- چه چیزی از تجربه کشورهای در حال توسعه؟
+- چه چیزی مخصوص ایران است و نباید کپی شود؟
+
+## ساختار خروجی
+گزارش در ۶ بخش با جدول مقایسه‌ای. برای هر تجربه:
+| کشور/سامانه | سطح جغرافیایی | تعداد شاخص | نقاط قوت | نقاط ضعف | درس برای ایران |
+
+## حجم مورد انتظار
+حداقل ۱۸٬۰۰۰ کلمه. اگر محدودیت خورد، «ادامه» بده.
